@@ -19,7 +19,7 @@ Journalism++ projects. The content of this guide is under MIT licence.
 
 ```                               
           .=.,   
-         ;c =\   /_ Comment is free, but indentation is sacred.
+         ;c =\   /_ Comment is free, but indents are sacred.
        __|  _/     
      .'-'-._/-'-._
     /..   ____    \
