@@ -102,7 +102,8 @@ opened with any text editor which is not yours and without prior configuration
   
 From now, configure your editor to:
 
-  - Use 4 spaces indentation (never mix up spaces and tabulations);
+  - Use soft-tabs and spaces indentation (never mix up spaces and tabulations);
+  - [Tabs are evil](http://www.emacswiki.org/emacs/TabsAreEvil);
   - always save in UTF-8;
   - use UNIX line endings;
   - give priority to middlewares rather than executable pre-processors to compile your assets (like Less, SCSS, minfiiers, etc).
