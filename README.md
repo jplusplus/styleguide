@@ -131,6 +131,6 @@ village, but consequently does not get help when a real wolf appears and eats
 half of a flock of sheep.
 
 Do not cry wolf too if you want to see the true issues solved. You may also
-follow the excellent [Issues Guidelines](https://github.com/necolas/issue-
-guidelines) by Nicolas Gallagher.
+follow the excellent [Issues Guidelines](https://github.com/necolas/issue-guidelines) 
+by Nicolas Gallagher.
 
