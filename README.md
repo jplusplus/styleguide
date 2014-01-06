@@ -6,6 +6,7 @@ Journalism++ projects. The content of this guide is under MIT licence.
 ## <a name='TOC'>Table of Contents</a>
   1. [Projects installation](#installation)
     2. [README](#readme)
+    2. [Makefile](#makefile)
     2. [Configuration files](#configuration)
     2. [Dependencies](#dependencies)
   1. [Comments](#comments)
@@ -54,6 +55,17 @@ details at least :
   - required environments variables;
   - required programmes and dependencies;
   - licence of the project.
+
+### <a name='makefile'>Makefile</a>
+
+It's a good idea to put in a __Makefle__ the scripts needed to manage the project. 
+
+  - Install the project (download dependancies, build binaries, setup databases);
+  - Run the project (launch databases, web application, job runners). Take a look to [Foreman](https://github.com/ddollar/foreman) to do that;
+  - Run the unit tests;
+  - Package the project for delivery.
+
+For speficic use, like deployement which depends of your needs, it's better to put these in a non-shared script file, like a [Fabfile](http://docs.fabfile.org)
 
 ### <a name='configuration'>Configuration files</a>
 
